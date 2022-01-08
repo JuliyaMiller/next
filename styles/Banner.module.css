@@ -1,0 +1,12 @@
+.banner{
+    min-height: 300px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-image: url('../public/banner.jpg');
+}
+.dark_wrapper{
+    width: 100%;
+    min-height: 300px;
+    background-color: rgba(0, 0, 0, 0.267);
+}

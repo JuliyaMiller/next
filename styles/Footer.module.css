@@ -1,0 +1,23 @@
+.footer{
+    height: 300px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 100px;
+    background-color: rgb(124, 124, 226);
+}
+
+.footer h2{
+    font-size: 30px;
+    color: rgb(4, 4, 39);
+}
+
+.footer h3{
+    font-size: 20px;
+    padding-top: 25px;
+}
+
+.footer img{
+    max-width: 200px;
+    max-height: 120px;
+}
